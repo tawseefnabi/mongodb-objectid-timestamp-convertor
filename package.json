@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-object-timestamp",
+  "version": "1.0.0",
+  "description": "MongoDB ObjectID to Timestamp converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "tawseef <tawseefnabi9@gmail.com> (https://twitter.com/NabiTowseef)",
+  "license": "MIT"
+}
